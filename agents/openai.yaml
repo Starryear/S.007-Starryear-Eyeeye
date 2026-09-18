@@ -1,0 +1,4 @@
+interface:
+  display_name: "Starryear-EyeEye｜背后原图·中间荒诞世界"
+  short_description: "原图铺满背后，中间打开可爱又诡异的眼睛生命世界"
+  default_prompt: "Use $starryear-eyeeye-surreal to keep my original photo as the full background and place a centered source-derived EyeEye world inside it, with one clear absurd recursive or impossible-depth idea."
